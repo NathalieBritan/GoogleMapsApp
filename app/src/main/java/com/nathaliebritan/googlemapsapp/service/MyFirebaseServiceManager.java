@@ -1,4 +1,4 @@
-package com.nathaliebritan.googlemapsapp;
+package com.nathaliebritan.googlemapsapp.service;
 
 import android.app.NotificationManager;
 import android.app.PendingIntent;
@@ -10,6 +10,8 @@ import android.support.v4.app.NotificationCompat;
 
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
+import com.nathaliebritan.googlemapsapp.activity.MapsActivity;
+import com.nathaliebritan.googlemapsapp.R;
 
 /**
  * Created by Nathalie Britan on 01.08.2016.

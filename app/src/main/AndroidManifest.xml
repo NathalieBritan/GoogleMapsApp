@@ -24,7 +24,7 @@
             android:value="@integer/google_play_services_version" />
 
         <activity
-            android:name=".MapsActivity"
+            android:name=".activity.MapsActivity"
             android:label="@string/title_activity_maps">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,7 +33,7 @@
             </intent-filter>
         </activity>
 
-        <service android:name=".MyFirebaseServiceManager"
+        <service android:name=".service.MyFirebaseServiceManager"
             android:enabled="true"
             android:exported="true">
         <intent-filter>
