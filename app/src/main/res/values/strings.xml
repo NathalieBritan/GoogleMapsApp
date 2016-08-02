@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMapsApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="api_key">AIzaSyClGopNHzcd0jzmdajt-GzuvK3EaV37iS0</string>
+    <string name="btn_add_pin">Add pin</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

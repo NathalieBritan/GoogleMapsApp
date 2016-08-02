@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "701286461036",
+    "firebase_url": "https://project-8347201281797190899.firebaseio.com",
+    "project_id": "project-8347201281797190899",
+    "storage_bucket": "project-8347201281797190899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701286461036:android:9f5ee9621c868a7d",
+        "android_client_info": {
+          "package_name": "com.nathaliebritan.googlemapsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701286461036-vj8rc3298uoccj5vgllfn7o97c2prg0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nathaliebritan.googlemapsapp",
+            "certificate_hash": "6131842D1463C49AFB0817894C384B504792004C"
+          }
+        },
+        {
+          "client_id": "701286461036-5spf5h3p3p3pjkcinc0ld01eb2jjl0gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEsAktLYMxW23Mkyook5p9133qEKpjSXI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-81809713-1"
+          }
+
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701286461036-5spf5h3p3p3pjkcinc0ld01eb2jjl0gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
